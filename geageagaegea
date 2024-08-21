@@ -1,6 +1,6 @@
 {
-	"resultCode": 254,
-	"message": "IDK",
+	"resultCode": 2,
+	"message": "Invalid token stuff",
 	"userId": null,
 	"nickname": null
 }
